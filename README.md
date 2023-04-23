@@ -1,16 +1,24 @@
-### Hi there 👋
+👋 Hey there! I'm **Arthur Muratov**, a Computer Science freshman at Nazarbayev University. I am an open-minded learner and always eager to explore new technologies and concepts.
 
-<!--
-**MuratovArthur/MuratovArthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Bootcamps:**
+- Web Developer Bootcamp, 2020
+- Flutter Development Bootcamp, 2021
+- Data Science Bootcamp, 2023
 
-Here are some ideas to get you started:
+💻 **Skills & Expertise:**
+- Languages: C, C++, Python, Dart, JavaScript
+- Frameworks: Flutter, Node.js
+- Databases MySQL, MongoDB
+- Tools: Jupyter Notebook, VS Code, Git, MAMP, Android Studio, Linux 
+- Soft skills: Continuous learning, Open-mindedness
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 **Main Projects:**
+- Fitness Centre Mobile Application
+- SAT Preparation App
+- NBA Games Analysis App
+
+🤝 **Let's Connect:**
+- [LinkedIn](https://www.linkedin.com/in/arthur-muratov/)
+
+📫 **How to reach me:**
+- [arthur.muratovich@gmail.com](mailto:arthur.muratovich@gmail.com)
