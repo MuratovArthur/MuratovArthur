@@ -1,7 +1,7 @@
 👋 Hey there! I'm **Arthur Muratov**, a Computer Science freshman at Nazarbayev University. I am an open-minded learner and always eager to explore new technologies and concepts.
 
 🚀 **Bootcamps:**
-- Web Developer Bootcamp, 2020
+- Full-Stack Web Development Bootcamp, 2020
 - Flutter Development Bootcamp, 2021
 - Data Science Bootcamp, 2023
 
@@ -9,7 +9,7 @@
 - Languages: C, C++, Python, Dart, JavaScript
 - Frameworks: Flutter, Node.js
 - Databases MySQL, MongoDB
-- Tools: Jupyter Notebook, VS Code, Git, MAMP, Android Studio, Linux 
+- Tools: Jupyter Notebook, VS Code, Git, MAMP, Linux 
 - Soft skills: Continuous learning, Open-mindedness
 
 👨‍💻 **Main Projects:**
