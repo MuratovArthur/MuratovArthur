@@ -13,7 +13,7 @@
 - Soft skills: Continuous learning, Open-mindedness
 
 👨‍💻 **Main Projects:**
-- Fitness Centre Mobile App
+- FitnessBlitz Mobile App
 - SAT Preparation Mobile App
 - NBA Games Analysis App
 
