@@ -1,4 +1,4 @@
-👋 Hey there! I'm **Arthur Muratov**, a Computer Science freshman at Nazarbayev University. I am an open-minded learner and always eager to explore new technologies and concepts.
+👋 Hey there! I'm **Arthur Muratov**, a Computer Science student at Nazarbayev University. I am an open-minded learner and always eager to explore new technologies and concepts.
 
 🚀 **Bootcamps:**
 - Full-Stack Web Development Bootcamp, 2020
@@ -12,9 +12,10 @@
 - Tools: Jupyter Notebook, VS Code, Git, MAMP, Linux 
 - Soft skills: Continuous learning, Open-mindedness
 
-👨‍💻 **Main Projects:**
-- FitnessBlitz Mobile App
-- SAT Preparation Mobile App
+👨‍💻 **My Projects:**
+- Kozy-Korpesh and Bayan-Sulu Pygame game
+- FitnessBlitz Flutter App
+- SAT Preparation Flutter App
 - NBA Games Analysis App
 
 🤝 **Let's Connect:**
