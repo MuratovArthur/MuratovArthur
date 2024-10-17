@@ -1,15 +1,45 @@
-👋 Hey there! I'm **Arthur Muratov**, a Computer Science student at Nazarbayev University. I am an open-minded learner and always eager to explore new technologies and concepts.
+# 👋 Hey, I'm Artur Muratov
 
-👨‍💻 **My Projects:**
-1. [ImamAI SwiftUI App](https://apps.apple.com/app/imamai/id6452727819)
-2. [BeeAware Backend](https://github.com/MuratovArthur/nfactorial-hackathon-backend)
-3. [Kozy-Korpesh and Bayan-Sulu Pygame Game](https://github.com/MuratovArthur/Kozy-Korpesh-Bayan-Sulu)
-4. [FitnessBlitz Flutter App](https://docs.google.com/document/d/1KT_u36a_zhyURZk6Cx_v6T2x6E1Ku09Q/edit?usp=sharing&ouid=108236242498222429614&rtpof=true&sd=true)
-5. [SAT Preparation Flutter App](https://play.google.com/store/apps/details?id=sat.preparation.app.com)
-6. [NBA Games Analysis Python App](https://github.com/MuratovArthur/NBA-Game-Analysis)
+I'm a Computer Science student at Nazarbayev University with a passion for creating impactful software and exploring innovative technologies. I thrive on learning new things, solving problems, and contributing to meaningful projects in software development, AI, and data science.
 
-🤝 **Let's Connect:**
-- [LinkedIn](https://www.linkedin.com/in/arthur-muratov/)
+---
 
-📫 **How to reach me:**
-- [arthur.muratovich@gmail.com](mailto:arthur.muratovich@gmail.com)
+## 👨‍💻 **Highlighted Projects**
+
+### [**ImamAI**](https://github.com/MuratovArthur/railway-imamai)  
+*SwiftUI, FastAPI, LangChain, Pinecone, MongoDB*  
+A SwiftUI iOS app that acts as a virtual assistant for answering Islam-related queries, powered by Generative AI. It features real-time prayer time updates based on user location and advanced search functionality for Quran and Hadith data. Recognized as Top 3 in the Spark Award 2023.
+
+### [**BeeAware**](https://github.com/MuratovArthur/nfactorial-hackathon-backend)  
+*SwiftUI, Mapbox, Flask*  
+An app developed to alert users about crime hotspots in their city, utilizing real-time data from official sources and a visually interactive map powered by Mapbox. This project helped improve situational awareness for over 3,000 users.
+
+### [**Kozy-Korpesh and Bayan-Sulu Game**](https://github.com/MuratovArthur/Kozy-Korpesh-Bayan-Sulu)  
+*Pygame, Python*  
+A game based on the famous Kazakh folk tale, created using Pygame. It brings cultural stories to life through interactive gameplay, merging education with entertainment.
+
+---
+
+## 💡 **What I’m Working On**
+
+- **Exploring Generative AI:** Continually building AI-powered solutions for mobile apps.
+- **Backend Optimization:** Focused on improving backend systems with Python and FastAPI for scalability and performance.
+
+---
+
+## 🛠 **Skills**
+
+- **Languages:** Python, C++, Swift, SQL  
+- **Frameworks & Tools:** FastAPI, Flask, SwiftUI, Mapbox, LangChain, Pinecone  
+- **Other Technologies:** Git, Pandas, NumPy
+
+---
+
+## 🤝 **Let’s Collaborate!**
+If you're working on something exciting in the AI, data science, or mobile development space, let's connect and collaborate!
+
+- **[LinkedIn](https://www.linkedin.com/in/arthur-muratov)**
+- **[GitHub](https://github.com/MuratovArthur)**
+
+## 📫 **Contact Me**
+- **[artur.muratovich@gmail.com](mailto:artur.muratovich@gmail.com)**
