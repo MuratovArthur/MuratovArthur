@@ -42,4 +42,4 @@ If you're working on something exciting in the AI, data science, or mobile devel
 - **[GitHub](https://github.com/MuratovArthur)**
 
 ## 📫 **Contact Me**
-- **[artur.muratovich@gmail.com](mailto:artur.muratovich@gmail.com)**
+- **[arthur.muratovich@gmail.com](mailto:arthur.muratovich@gmail.com)**
